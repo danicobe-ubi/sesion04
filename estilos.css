@@ -1,0 +1,8 @@
+.context {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 5em 1em;
+    border: 2px dashed black;
+  }
+  
